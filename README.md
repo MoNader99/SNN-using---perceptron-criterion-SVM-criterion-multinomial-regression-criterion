@@ -1,0 +1,1 @@
+# SNN-using---perceptron-criterion-SVM-criterion-multinomial-regression-criterion
